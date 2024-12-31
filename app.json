@@ -3,8 +3,8 @@
     "name": "app-01",
     "slug": "app-01",
     "version": "1.0.0",
-    "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "orientation": "all",
+    "icon": "./assets/images/car.png",
     "userInterfaceStyle": "light",
     "newArchEnabled": true,
     "splash": {
@@ -22,7 +22,7 @@
       }
     },
     "web": {
-      "favicon": "./assets/favicon.png"
+      "favicon": "./assets/images/car.png"
     }
   }
 }
